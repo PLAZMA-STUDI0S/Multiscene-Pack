@@ -1,0 +1,10 @@
+Localhost: 12345
+Python;
+server.py
+local.py
+version.py
+app.py
+servernitel.py
+__init__.py
+
+#Dosyaların çalışma dizinidir.
